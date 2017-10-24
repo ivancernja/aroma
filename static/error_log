@@ -1,0 +1,4 @@
+[29-Sep-2017 03:58:35 Europe/Zagreb] PHP Fatal error:  Call to undefined function of_get_option() in /home/wwwaroma/public_html/wp-content/themes/theme47998/static/static-footer-logo.php on line 3
+[02-Oct-2017 10:10:51 Europe/Zagreb] PHP Fatal error:  Call to undefined function of_get_option() in /home/wwwaroma/public_html/wp-content/themes/theme47998/static/static-social-networks.php on line 6
+[03-Oct-2017 17:47:01 Europe/Zagreb] PHP Fatal error:  Call to undefined function has_nav_menu() in /home/wwwaroma/public_html/wp-content/themes/theme47998/static/static-nav.php on line 4
+[03-Oct-2017 18:17:28 Europe/Zagreb] PHP Fatal error:  Call to undefined function of_get_option() in /home/wwwaroma/public_html/wp-content/themes/theme47998/static/static-footer-text.php on line 3

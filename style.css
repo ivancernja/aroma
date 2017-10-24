@@ -1,0 +1,47 @@
+/*--
+	Theme Name: theme47998
+	Theme URI: http://template-help.com/
+	Description: A theme for Wordpress 4.4.x + from Template-Help.com Collection
+	Author: Template_Help.com
+	Author URL: http://www.Template-Help.com/
+	Template: CherryFramework
+	Version: 3.1.5
+	MotoPress Version: 1.5.8
+--*/
+
+/* ----------------------------------------
+	Please, You may put custom CSS here
+---------------------------------------- */
+
+a {
+	color: #9fd293 !important;
+}
+
+.breadcrumb__t li.active {
+	color: #9fd293 !important;
+}
+
+.btn-link:before {
+-moz-transform: scale(-1, 1);
+-webkit-transform: scale(-1, 1);
+-o-transform: scale(-1, 1);
+-ms-transform: scale(-1, 1);
+transform: scale(-1, 1);
+}
+
+
+.banner-wrap.extra-banner .btn-link:before {
+-moz-transform: scale(-1, 1);
+-webkit-transform: scale(-1, 1);
+-o-transform: scale(-1, 1);
+-ms-transform: scale(-1, 1);
+transform: scale(-1, 1);
+}
+
+.social-nets-wrapper {
+	display: none !important;
+}
+
+.social {
+	display: none !Important;
+}
