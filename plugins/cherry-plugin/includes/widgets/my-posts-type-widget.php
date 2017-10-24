@@ -343,7 +343,7 @@ function form($instance) {
   <p>
   <label for="<?php echo $this->get_field_id("more_link_text"); ?>">
 	<?php _e('Link Text', CHERRY_PLUGIN_DOMAIN); ?>:
-	<input class="widefat" id="<?php echo $this->get_field_id("more_link_text"); ?>" name="<?php echo $this->get_field_name("more_link_text"); ?>" type="text" value="<?php echo esc_attr($instance["more_link_text"]); ?>" /> <span style="font-size:11px; color:#999;">(<?php _e('default: "Read more"', CHERRY_PLUGIN_DOMAIN); ?>)</span>
+	<input class="widefat" id="<?php echo $this->get_field_id("more_link_text"); ?>" name="<?php echo $this->get_field_name("more_link_text"); ?>" type="text" value="<?php echo esc_attr($instance["more_link_text"]); ?>" /> <span style="font-size:11px; color:#999;">(<?php _e('default: "קרא עוד"', CHERRY_PLUGIN_DOMAIN); ?>)</span>
   </label>
   </p>
   <p>
